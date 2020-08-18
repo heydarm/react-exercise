@@ -1,0 +1,1 @@
+(start cmd.exe /k "cd whelp-client && npm start") & (start cmd.exe /k "cd whelp-server && npm start")
